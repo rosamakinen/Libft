@@ -5,8 +5,8 @@ In Libft I have implemented basic C functions in a library called Libft. The fun
 
 You can build the library by runnin Make while in the libft folder and include it in your code by adding the folder and adding #include "../libft.h" to your header file.
 
-From <ctype.h>
-ft_isalpha - checks for an alphabetic character.
+From <ctype.h>\n
+ft_isalpha - checks for an alphabetic character.\n
 ft_isdigit - checks for a digit (0 through 9).
 ft_isalnum - checks for an alphanumeric character.
 ft_isascii - checks whether c fits into the ASCII character set.

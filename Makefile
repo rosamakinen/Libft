@@ -15,7 +15,7 @@ HEADER = -I ./libft.h
 FILES = ./ft_atoi ./ft_bzero ./ft_isalnum ./ft_isalpha ./ft_isascii ./ft_isdigit \
 		./ft_isprint ./ft_memchr ./ft_memcmp ./ft_memcpy ./ft_memmove ./ft_memset \
 		./ft_strchr ./ft_strlen ./ft_strlcpy ./ft_strncmp ./ft_strrchr \
-		./ft_tolower ./ft_toupper ./ft_strnstr ./ft_strlcat ./ft_strdup \
+		./ft_strnstr ./ft_strlcat ./ft_strdup \
 		./ft_substr ./ft_strjoin ./ft_strtrim ./ft_strchr ./ft_putchar_fd \
 		./ft_putstr_fd ./ft_putnbr_fd ./ft_putendl_fd ./ft_strmapi ./ft_striteri \
 		./ft_itoa ./ft_calloc ./ft_split

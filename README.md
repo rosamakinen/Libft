@@ -1,5 +1,6 @@
 # Libft
 ##Library of C functions
+- tested with Apple clang version 15.0.0 (clang-1500.1.0.2.5) and macOS Ventura 13.5
 
 In Libft I have implemented basic C functions in a library called Libft. The functions include string manipulation, datatype converting and memory management.
 
